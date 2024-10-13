@@ -1,0 +1,14 @@
+{
+    "domain": "is-not-a.dev",
+    "subdomain": "bimb",
+
+    "owner": {
+        "email": "bimbsms@gmail.com"
+    },
+
+    "record": {
+        "A": ["52.179.164.196"],
+    },
+
+    "proxied": false
+}
